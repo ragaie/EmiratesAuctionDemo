@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "Sort"; ObjectID = "0cS-Ym-VM0"; */
+"0cS-Ym-VM0.normalTitle" = "ترتيب";
+
+/* Class = "UIButton"; normalTitle = "Filter"; ObjectID = "1uL-Lx-hCk"; */
+"1uL-Lx-hCk.normalTitle" = "تصقيه";
+
+/* Class = "UILabel"; text = "23df"; ObjectID = "1yF-CS-HVh"; */
+"1yF-CS-HVh.text" = "23df";
+
+/* Class = "UILabel"; text = "Car & Machinary"; ObjectID = "2m6-Gh-Ka8"; */
+"2m6-Gh-Ka8.text" = "معدات & سيارات";
+
+/* Class = "UILabel"; text = "Bids"; ObjectID = "4o4-qX-4fl"; */
+"4o4-qX-4fl.text" = "العروض";
+
+/* Class = "UILabel"; text = "Lot#"; ObjectID = "6c7-xH-fCV"; */
+"6c7-xH-fCV.text" = "الكميه#";
+
+/* Class = "UILabel"; text = "AED"; ObjectID = "Cl4-Uy-CYp"; */
+"Cl4-Uy-CYp.text" = "AED";
+
+/* Class = "UILabel"; text = "Time Left"; ObjectID = "Ms3-t5-0qm"; */
+"Ms3-t5-0qm.text" = "الوقت المتبقي";
+
+/* Class = "UILabel"; text = "12,100"; ObjectID = "NK1-9L-jkh"; */
+"NK1-9L-jkh.text" = "12,100";
+
+/* Class = "UILabel"; text = "2342c"; ObjectID = "dQs-VF-cP2"; */
+"dQs-VF-cP2.text" = "2342c";
+
+/* Class = "UINavigationItem"; title = "Emirates Auction"; ObjectID = "hDD-Yg-Mhx"; */
+"hDD-Yg-Mhx.title" = " مزاد الامارات";
+
+/* Class = "UIButton"; normalTitle = "Show Car List"; ObjectID = "knk-Hf-5jq"; */
+"knk-Hf-5jq.normalTitle" = "عرض قائمة السيارات";
+
+/* Class = "UILabel"; text = "Chevrolet Camaro"; ObjectID = "mwW-7M-FqR"; */
+"mwW-7M-FqR.text" = "Chevrolet Camaro";
+
+/* Class = "UIButton"; normalTitle = "Grid View"; ObjectID = "uq6-aG-1sH"; */
+"uq6-aG-1sH.normalTitle" = "عرض الشبكة";
+
+/* Class = "UILabel"; text = "23423423"; ObjectID = "zfH-Yd-laE"; */
+"zfH-Yd-laE.text" = "23423423";
